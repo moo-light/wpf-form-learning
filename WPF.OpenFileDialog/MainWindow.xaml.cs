@@ -44,7 +44,6 @@ namespace WPF_OpenFileDialog
             else
             {
                 tbInfo.Text = "nothing has chosen";
-
             }
         }
     }
