@@ -4,6 +4,16 @@ This repository is a learning repository for me to learn WPF from in advanced be
 These studies came from a playlist on Youtube from a Youtuber named **[Kampa Plays](https://www.youtube.com/@KampaPlays)**
 
 Playlist: https://www.youtube.com/playlist?list=PLih2KERbY1HHOOJ2C6FOrVXIwg4AZ-hk1
+### 28/04/2023
+I found this actually pretty easy  sorry if i'm wrong (JK)
+
+> **Finished:**
+> - StackPanel
+> - GridSplitter
+> - Expander
+> - *Skipped ScrollViewer*
+> - Custom WIndow and Title (#18)
+> - Opening Custom Windows with Show and ShowDialog (#19)
 
 ### 27/04/2023
 Apparently this tutorial is also the easiest to learn tutorial on youtube
