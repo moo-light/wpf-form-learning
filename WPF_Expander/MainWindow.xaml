@@ -1,0 +1,28 @@
+﻿<Window x:Class="WPF_Expander.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Expander"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="400" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="auto"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Background="LightBlue">
+            <TextBlock Text="Name" FontSize="16"/>
+            <Expander Header="More Details">
+                <TextBlock Text="Description" FontSize="16"/>
+            </Expander>
+            <TextBlock Text="Email" FontSize="16"/>
+            <Button Name="btnDetails" Content="Details"
+                    Width="100" Height="25" Click="btnDetails_Click"/>
+        </StackPanel>
+        <Expander Name="expdDetail" Background="LightGray" BorderThickness="0"
+                  Grid.Column="1" ExpandDirection="Left">
+            <Rectangle  Width="125" Fill="LightGray" />
+        </Expander>
+    </Grid>
+</Window>
