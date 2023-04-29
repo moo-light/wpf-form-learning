@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF_Tutorial_19", "WPF_Tuto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Reusable_Styles", "WPF_Reusable_Styles\WPF_Reusable_Styles.csproj", "{98D71894-F328-4500-BC1C-0A6CC64B55C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Styles_And_ControlTemplates", "WPF_Styles_And_ControlTemplates\WPF_Styles_And_ControlTemplates.csproj", "{2C11A8A7-2546-4FF0-BF4D-7220EB60109F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{98D71894-F328-4500-BC1C-0A6CC64B55C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98D71894-F328-4500-BC1C-0A6CC64B55C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98D71894-F328-4500-BC1C-0A6CC64B55C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C11A8A7-2546-4FF0-BF4D-7220EB60109F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C11A8A7-2546-4FF0-BF4D-7220EB60109F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C11A8A7-2546-4FF0-BF4D-7220EB60109F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C11A8A7-2546-4FF0-BF4D-7220EB60109F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
