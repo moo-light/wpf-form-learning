@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\learning in FPT\\Kỳ_7\\WPFFormTraning\\wpf-form-learning\\WPF_MessageBox\\WPF_MessageBox.csproj",
-      "projectName": "WPF_MessageBox",
-      "projectPath": "E:\\learning in FPT\\Kỳ_7\\WPFFormTraning\\wpf-form-learning\\WPF_MessageBox\\WPF_MessageBox.csproj",
+      "projectUniqueName": "E:\\learning in FPT\\Kỳ_7\\WPFFormTraining\\wpf-form-learning\\WPF_Messagebox\\WPF_MEssagebox.csproj",
+      "projectName": "WPF_MEssagebox",
+      "projectPath": "E:\\learning in FPT\\Kỳ_7\\WPFFormTraining\\wpf-form-learning\\WPF_Messagebox\\WPF_MEssagebox.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\learning in FPT\\Kỳ_7\\WPFFormTraning\\wpf-form-learning\\WPF_MessageBox\\obj\\",
+      "outputPath": "E:\\learning in FPT\\Kỳ_7\\WPFFormTraining\\wpf-form-learning\\WPF_Messagebox\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages"

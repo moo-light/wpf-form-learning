@@ -4,6 +4,12 @@ This repository is a learning repository for me to learn WPF from in advanced be
 These studies came from a playlist on Youtube from a Youtuber named **[Kampa Plays](https://www.youtube.com/@KampaPlays)**
 
 Playlist: https://www.youtube.com/playlist?list=PLih2KERbY1HHOOJ2C6FOrVXIwg4AZ-hk1
+### 29/04/2023
+Waiting for update
+> **Finished:**
+> - WPF What Is MVVM
+> - WPF_Styles_And_ControlTemplates
+> - WPF_Reusable_Styles
 ### 28/04/2023
 I found this actually pretty easy  sorry if i'm wrong (JK)
 
